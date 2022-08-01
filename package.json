@@ -1,0 +1,19 @@
+{
+  "name": "trainer-v2",
+  "version": "1.0.0",
+  "description": "A TypeScript Template project that supports ES Modules",
+  "main": "app.ts",
+  "scripts": {
+    "start": "ts-node ./app.ts"
+  },
+  "author": "github.com/hibatos",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "@swc/core": "^1.2.222"
+  },
+  "type": "module"
+}
