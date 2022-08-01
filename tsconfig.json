@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "target": "ES2022",
+        "watch": true,
+        "esModuleInterop": true,
+        "module": "ESNext",
+        "moduleResolution": "Node",
+    },
+    "ts-node": {
+        "swc": true,
+        "esm": true
+    }
+      
+}
