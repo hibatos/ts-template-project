@@ -1,5 +1,5 @@
 {
-  "name": "trainer-v2",
+  "name": "ts-template-project",
   "version": "1.0.0",
   "description": "A TypeScript Template project that supports ES Modules",
   "main": "app.ts",
